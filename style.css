@@ -1,0 +1,52 @@
+/* .div1{
+    display: flex;
+    justify-content: center;
+    
+} */
+*{
+    margin:9px;
+}
+.demo{
+    height: auto;
+    text-align: center;
+    margin-top: 30px;
+    
+}
+
+.div1{
+    height: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+}
+.div2{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    text-align: center;
+    width: 379px;
+}
+.but{
+    height: 87px;
+    width: 107px;
+    /* margin: 9px; */
+    border-radius: 10px;
+    background-color: rgb(227, 240, 177);
+    border: 2px solid black;
+    color: black;
+    font-size: 30px;
+}
+.p{
+   font-size: 36px;
+   margin-bottom: 12px;
+   color: rgb(22, 115, 245);
+}
+.reset{
+    position: relative;
+    left: 46%;
+    text-align: center;
+    padding: 7px;
+    font-size: 15px;
+    border-radius: 14px;
+}
